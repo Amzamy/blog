@@ -1,4 +1,4 @@
-##Study Progress Check##
+#Study Progress Check#
 
 **2020/04/23 Introduction to CS**
 
@@ -14,4 +14,4 @@
 HTML, CSS, _a little intro to Bootstrap_
 
 **2020/05/26 Probability**
-recalled a lot. Combinatorics, Bayesian inference
+recalled a lot. Combinatorics, Bayesian inference; distributions
