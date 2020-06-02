@@ -15,3 +15,5 @@ HTML, CSS, _a little intro to Bootstrap_
 
 **2020/05/26 Probability**
 recalled a lot. Combinatorics, Bayesian inference; distributions
+
+**2020/06/02 Databases**
