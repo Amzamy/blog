@@ -34,7 +34,11 @@ Data science foundation knoeledg visualized by R-derived tool
 
 
 made simple version of Gobang and some tokens;
+
+
 got how "class" been used in games _Plants vs Zombies.py_;
+
+
 import pyxel _maze.py_
 
 **2020/06/25 Accounting Data Analytics and Visualization, Excel & Tableau**
